@@ -1,0 +1,42 @@
+body {
+  font-family: "Poppins";
+}
+.iconButton {
+  transition: 0.3s !important;
+}
+.iconButton:hover {
+  background-color: #c5c5c5 !important;
+  box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.4) !important;
+}
+.todoCard {
+  transition: 0.3s !important;
+}
+.todoCard:hover {
+  padding-bottom: 20px;
+  padding-top: 20px;
+  box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.4);
+}
+
+/* CUSTOM FONTS */
+@font-face {
+  font-family: Poppins;
+  src: url("../public/fonts/Poppins-Medium.ttf");
+  font-weight: normal;
+}
+@font-face {
+  font-family: Poppins;
+  src: url("../public/fonts/Poppins-Bold.ttf");
+  font-weight: bold;
+}
+@font-face {
+  font-family: Poppins;
+  src: url("../public/fonts/Poppins-Black.ttf");
+  font-weight: 900;
+}
+@font-face {
+  font-family: Poppins;
+  src: url("../public/fonts/Poppins-Thin.ttf");
+  font-weight: 200;
+}
+
+/* == CUSTOM FONTS == */

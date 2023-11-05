@@ -1,0 +1,9 @@
+.redBg {
+  background-color: #f00;
+}
+.greenBg {
+  background-color: rgb(6, 37, 6);
+}
+.active {
+  border: 10px solid green;
+}
